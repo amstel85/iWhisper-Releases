@@ -7,7 +7,7 @@
 ## 💻 Supported Platforms
 
 iWhisper is cross-platform and supports:
-*   **🪟 Windows:** 10 / 11 (Standalone `.exe`)
+*   **🪟 Windows:** 10 / 11 (Standalone executable)
 *   **🐧 Linux:** Ubuntu, Debian, Fedora, and others (Standalone binary)
 
 ---
@@ -29,11 +29,12 @@ iWhisper is cross-platform and supports:
 ## 🚀 How to Install
 
 1.  Go to the **[Latest Release](https://github.com/amstel85/iWhisper-Releases/releases/latest)** page.
-2.  Download the version matching your OS:
-    *   **Windows:** Download `iWhisper.exe`.
-    *   **Linux:** Download the `iWhisper` binary.
-3.  Run the application (No installation required).
-4.  **Note:** You will need a free **Groq API Key**. Get one in seconds at [console.groq.com](https://console.groq.com/keys).
+2.  Download the `.zip` file matching your operating system:
+    *   **Windows:** `iWhisper_Windows_vX.X.X.zip`
+    *   **Linux:** `iWhisper_Linux_vX.X.X.zip`
+3.  Extract the ZIP file to a folder of your choice.
+4.  Run the `iWhisper` executable (No installation required).
+5.  **Note:** You will need a free **Groq API Key**. Get one in seconds at [console.groq.com](https://console.groq.com/keys).
 
 ---
 
